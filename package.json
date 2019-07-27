@@ -1,0 +1,20 @@
+{
+  "name": "gettext-html-plugin",
+  "version": "1.2.0",
+  "description": "Gettext html webpack plugin",
+  "main": "index.js",
+  "author": "mufeng <mufeng.me@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMuFeng/gettext-html-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iMuFeng/gettext-html-plugin/issues"
+  },
+  "homepage": "https://github.com/iMuFeng/gettext-html-plugin#readme",
+  "license": "MIT",
+  "dependencies": {
+    "is-blank": "^2.1.0",
+    "po2json": "^1.0.0-alpha"
+  }
+}
